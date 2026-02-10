@@ -68,6 +68,8 @@ evaluacionModular2CV/
 
 Desarrollado como evaluación modular en Full Stack JavaScript.
 
-## Licencia
+## 🔗 Link del Proyecto
+[Ver CV en vivo aquí]
+https://macevedo91.github.io/evaluacionModular2CV/
 
 Este proyecto es de código abierto y está disponible bajo licencia libre para fines educativos.
