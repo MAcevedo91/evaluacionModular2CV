@@ -4,11 +4,11 @@ Portafolio profesional interactivo desarrollado con HTML5, CSS3 y JavaScript.
 
 ## Características
 
-- 🎨 Diseño responsivo
-- 🌙 Modo oscuro/claro
-- ✉️ Formulario de contacto con validación
-- ✨ Animaciones al hacer scroll
-- 📱 Optimizado para móviles
+- Diseño responsivo
+- Modo oscuro/claro
+- Formulario de contacto con validación
+- Animaciones al hacer scroll
+- Optimizado para móviles
 
 ## Tecnologías
 
@@ -22,7 +22,7 @@ Abre `index.html` en tu navegador.
 
 ## 🔗 Links
 
-Link repositrio:
+Link repositorio:
 https://github.com/MAcevedo91/evaluacionModular2CV
 
 
